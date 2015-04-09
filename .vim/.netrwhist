@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/neil/ws/django/extreme/extreme-kanban-read-only/extremeKanban/extremeKanban'
+let g:netrw_dirhist_2='/home/neil/projs/carnet/chedushicn/chedushicn'
+let g:netrw_dirhist_3='/home/neil/projs/carnet/chedushicn/templates/accounts'
+let g:netrw_dirhist_4='/Users/nbaoping/.vim/bundle/vim-easymotion/plugin'
+let g:netrw_dirhist_5='/Users/nbaoping/.vim/bundle/vim-easymotion'
